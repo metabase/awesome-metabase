@@ -32,12 +32,12 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 - [Metabase QA](https://github.com/metabase/metabase-qa) - databases used for testing
 - [Deploy for Heroku](https://github.com/metabase/metabase-deploy)
 - [SSO Examples](https://github.com/metabase/sso-examples)
-- [ARCHIVED Heroku Buildpack](https://github.com/metabase/metabase-buildpack)
 - [Sample Driver: Sudoku](https://github.com/metabase/sudoku-driver)
-- [(WIP) Static Embedding Samples](https://github.com/metabase/metabase-static-embedding-samples)
-- [(WIP) Metabook](https://github.com/metabase/metabook) - developer notes
 - [Docker CI](https://github.com/metabase/metabase-docker-ci)
 - [Sample Driver](https://github.com/metabase/sample-driver)
+- [(WIP) Static Embedding Samples](https://github.com/metabase/metabase-static-embedding-samples)
+- [(WIP) Metabook](https://github.com/metabase/metabook) - developer notes
+- [ARCHIVED Heroku Buildpack](https://github.com/metabase/metabase-buildpack)
 
 ### Unofficial and Third Party Examples
 - [Using Python with Notify API](https://github.com/likeshumidity/metabase-python-api-notify)
@@ -122,6 +122,8 @@ Community drivers are [unsupported](https://www.metabase.com/docs/latest/develop
 - [Metabase PHP](https://github.com/ipeevski/metabase-php) - PHP API wrapper
 - [Metabase on Google Kubernetes Engine](https://github.com/zenyui/metabase-gke)
 - [Heroku examples with Kafka, Redshift, and Metabase](https://github.com/heroku-examples/analytics-with-kafka-redshift-metabase)
+- [Chrome Extension - Metabase ChatGPT](https://chromewebstore.google.com/detail/metabase-chatgpt/kkkpnhdoamjghmnjpailmpndjlegkmnh)
+    - [repo for Metabase ChatGPT Chrome Extension](https://github.com/RobinPicard/metabase-chatgpt)
 
 ## TODO
 - Need a CTA for "want to have your project listed? find an error? Contact us or submit a PR."
