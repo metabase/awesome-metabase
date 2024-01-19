@@ -80,7 +80,7 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 - [Stress Test DB Connections](https://github.com/paoliniluis/metabase-choke-db-conns)
 
 ## Metabase Partner Drivers
-Partner drivers are supported by [Metabase Partners](https://www.metabase.com/docs/latest/developers-guide/partner-and-community-drivers#partner-drivers).
+[Partner drivers](https://www.metabase.com/docs/latest/developers-guide/partner-and-community-drivers#partner-drivers) are supported by Metabase Partners.
 
 - [Clickhouse](https://github.com/ClickHouse/metabase-clickhouse-driver)
 - [Exasol](https://github.com/exasol/metabase-driver)
@@ -90,7 +90,7 @@ Partner drivers are supported by [Metabase Partners](https://www.metabase.com/do
 - [Starburst (compatible with Trino)](https://github.com/starburstdata/metabase-driver)
 
 ## Metabase Community Drivers
-Community drivers are [unsupported](https://www.metabase.com/docs/latest/developers-guide/partner-and-community-drivers#community-drivers).
+[Community drivers](https://www.metabase.com/docs/latest/developers-guide/partner-and-community-drivers#community-drivers) are unsupported.
 - [CSV](https://github.com/Markenson/csv-metabase-driver)
 - [Cube.js](https://github.com/lili-data/metabase-cubejs-driver)
 - [DB2](https://github.com/damienchambe/metabase-db2-driver)
