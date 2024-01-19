@@ -12,6 +12,10 @@ Metabase examples, related projects, and ecosystem
 1. [Related Projects](#related-projects)
 
 ## Metabase Documentation
+- [Docs](https://www.metabase.com/docs/latest/) - Metabase reference materials
+- [Learn Docs](https://www.metabase.com/learn/) - Metabase tutorials and guides
+- [Discourse](https://discourse.metabase.com/) - Metabase community forum
+- [GitHub Repository](https://github.com/metabase/metabase/) - Metabase public source code repository
 
 ## Metabase Examples
 
