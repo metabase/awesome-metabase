@@ -8,7 +8,7 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 1. [Metabase Documentation](#metabase-documentation)
 1. [Metabase Examples](#metabase-examples)
     1. [Official Examples](#official-examples)
-    1. [Unofficial and Third Pparty Examples](#unofficial-and-third-party-examples)
+    1. [Unofficial and Third Party Examples](#unofficial-and-third-party-examples)
 1. [Metabase Partner Drivers](#metabase-partner-drivers)
 1. [Metabase Community Drivers](#metabase-community-drivers)
 1. [Related Projects](#related-projects)
