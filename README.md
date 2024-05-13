@@ -14,7 +14,7 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 
 ## Metabase Documentation
 - [Docs](https://www.metabase.com/docs/latest/) - Metabase reference materials
-- [Learn Docs](https://www.metabase.com/learn/) - Metabase tutorials and guides
+- [Learn Metabase](https://www.metabase.com/learn/) - Tutorials and guides on Metabase, analytics, data modeling, and more
 - [Discourse](https://discourse.metabase.com/) - Metabase community forum
 - [GitHub Repository](https://github.com/metabase/metabase/) - Metabase public source code repository
 
