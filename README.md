@@ -4,7 +4,6 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 
 ## Table of Contents
 
-1. [Table of Contents](#table-of-contents)
 1. [Metabase Documentation](#metabase-documentation)
 1. [Metabase Examples](#metabase-examples)
     1. [Official Examples](#official-examples)
