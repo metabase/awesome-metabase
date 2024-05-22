@@ -1,10 +1,11 @@
-# Metabase Awesome
+# Awesome Metabase
 
 Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres).
 
 ## Table of Contents
 
-1. [Metabase Documentation](#metabase-documentation)
+1. [Official Metabase Documentation and Forum](#official-metabase-documentation-and-forum)
+1. [Metabase Socials](#metabase-socials)
 1. [Metabase Examples](#metabase-examples)
     1. [Official Examples](#official-examples)
     1. [Unofficial and Third Party Examples](#unofficial-and-third-party-examples)
@@ -12,11 +13,14 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 1. [Metabase Community Drivers](#metabase-community-drivers)
 1. [Related Projects](#related-projects)
 
-## Metabase Documentation
+## Official Metabase Documentation and Forum
 - [Docs](https://www.metabase.com/docs/latest/) - Metabase reference materials
 - [Learn Metabase](https://www.metabase.com/learn/) - Tutorials and guides on Metabase, analytics, data modeling, and more
 - [Discourse](https://discourse.metabase.com/) - Metabase community forum
-- [GitHub Repository](https://github.com/metabase/metabase/) - Metabase public source code repository
+
+## Official Metabase Socials
+- [YouTube](https://www.youtube.com/@metabasedata)
+- [Twitter/X](https://x.com/metabase)
 
 ## Metabase Examples
 
@@ -124,5 +128,7 @@ Metabase examples, related projects, and ecosystem. Inspired by [dhamaniasad/awe
 - [Chrome Extension - Metabase ChatGPT](https://chromewebstore.google.com/detail/metabase-chatgpt/kkkpnhdoamjghmnjpailmpndjlegkmnh)
     - [repo for Metabase ChatGPT Chrome Extension](https://github.com/RobinPicard/metabase-chatgpt)
 
-## TODO
-- Need a CTA for "want to have your project listed? find an error? Contact us or submit a PR."
+## Contributing
+- Doing something awesome with Metabase? Create an issue or submit a PR to add your awesome project to the repository.
+- Link not working or find an error? Please create an issue or submit a PR to let us know!
+
