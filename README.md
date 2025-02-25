@@ -27,35 +27,24 @@
 - [Metabase](https://www.metabase.com/) - Official website.
 - [Metabase GitHub Repository](https://github.com/metabase/metabase) - Source code and issue tracking.
 - [Metabase Documentation](https://www.metabase.com/docs/latest/) - Official documentation.
-- [Metabase Tutorial Videos](https://www.metabase.com/learn/getting-started/) - Official tutorial videos.
+- [Metabase Getting Started](https://www.metabase.com/learn/getting-started/) - Guides to get started with Metabase.
 - [Metabase Cloud](https://www.metabase.com/start/) - Hosted Metabase service.
-- [Metabase Enterprise Edition](https://www.metabase.com/enterprise/) - Enterprise features and support.
 - [Metabase Release Notes](https://github.com/metabase/metabase/releases) - Latest updates and changes.
+- [Metabase Roadmap](https://www.metabase.com/roadmap) - Official product roadmap.
 
-## Community
+## Community and Socials
 
 - [Metabase Discourse Forum](https://discourse.metabase.com/) - Official community forum.
-- [Metabase Slack](https://metabase.com/slack) - Official Slack workspace.
 - [r/Metabase](https://www.reddit.com/r/Metabase/) - Metabase subreddit.
-- [Stack Overflow: Metabase](https://stackoverflow.com/questions/tagged/metabase) - Metabase questions on Stack Overflow.
-- [Metabase GitHub Discussions](https://github.com/metabase/metabase/discussions) - Discussion board on GitHub.
-- [Metabase Community Translations](https://www.metabase.com/blog/translations) - Community-driven localization project.
+- [Metabase on Twitter/X](https://x.com/metabase) - Official Twitter/X account.
+- [Metabase on LinkedIn](https://www.linkedin.com/company/metabase/) - Official LinkedIn account.
 
 ## Tutorials
 
 - [Getting Started with Metabase](https://www.metabase.com/learn/getting-started/tour-of-metabase) - A tour of Metabase's main features.
-- [Metabase for Beginners](https://medium.com/metabase/tagged/beginners-guide) - Beginner-friendly guides from Metabase's Medium account.
-- [Advanced SQL in Metabase](https://www.metabase.com/learn/building-analytics/sql-templates) - Learn how to use SQL templates and snippets.
 - [Creating Filters in Metabase](https://www.metabase.com/learn/dashboards/filters) - Comprehensive guide to dashboard filters.
-- [X-rays and Automated Insights](https://www.metabase.com/learn/exploration/automated-x-ray-explorations) - How to use Metabase's automated analysis features.
-- [Custom Expressions in Metabase](https://www.metabase.com/learn/questions/custom-expressions) - Working with custom expressions and calculations.
-- [Building Metabase Dashboards](https://www.metabase.com/learn/dashboards/introduction) - Comprehensive guide to dashboard creation.
-- [Embedding Metabase](https://www.metabase.com/learn/embedding/embedding-charts-and-dashboards) - How to embed Metabase content in other applications.
-- [Metabase ETL Best Practices](https://www.metabase.com/learn/administration/ETL-best-practices) - Guide to effective data loading strategies.
 
-## Extensions
-
-- [Metabase Toolbox](https://github.com/flamber/metabase-toolbox) - Collection of Metabase enhancement tools.
+## Community Drivers
 - [Clickhouse Driver](https://github.com/enqueue/metabase-clickhouse-driver) - Community-maintained ClickHouse database driver.
 - [DuckDB Driver](https://github.com/AlexR2D2/metabase_duckdb_driver) - Driver for connecting Metabase to DuckDB.
 - [Oracle Driver](https://github.com/metabase/oracle-driver) - Official Oracle database driver.
@@ -66,6 +55,7 @@
 - [CustomSQL Driver](https://github.com/symbiont-io/metabase-custom-sql-driver) - Enhanced SQL capabilities plugin.
 - [Presto Driver](https://github.com/timewarrior-dev/metabase-presto-driver) - PrestoDB driver for Metabase.
 - [Snowflake External Objects](https://github.com/metabase/snowflake-external-objects) - Snowflake external objects integration.
+
 
 ## Integrations
 
